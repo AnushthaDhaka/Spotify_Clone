@@ -1,4 +1,4 @@
-🔊 Spotify Clone 🎧
+🔊 SPOTIFY CLONE 🎧
 
 A responsive and dynamic clone of Spotify built using modern web technologies.
 Key features include:
